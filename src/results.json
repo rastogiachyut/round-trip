@@ -1,0 +1,85 @@
+{
+	"searchResults": {
+		"primaryJourney": [{
+			"iconClass": "air",
+			"time": "6:13 - 8:03",
+			"name": "GoAir G8-181",
+			"duration": "1h :50m",
+			"tripFare": "Rs. 3,913",
+			"fare": 3913,
+			"departs": 1311924180000,
+			"arrives": 1314930780000,
+			"cb": "2"
+		}, {
+			"iconClass": "air",
+			"time": "6:13 - 8:03",
+			"name": "Indigo 6E-182",
+			"duration": "1h :50m",
+			"tripFare": "Rs. 4,953",
+			"fare": 4953,
+			"departs": 1314924180000,
+			"arrives": 1316930780000,
+			"cb": "2"
+		}, {
+			"iconClass": "air",
+			"time": "6:13 - 8:03",
+			"name": "GoAir G8-185",
+			"duration": "1h :50m",
+			"tripFare": "Rs. 3,453",
+			"fare": 3453,
+			"departs": 1312924180000,
+			"arrives": 1314930740000,
+			"cb": "2"
+		}, {
+			"iconClass": "air",
+			"time": "6:13 - 8:03",
+			"name": "Indigo 6E-384",
+			"duration": "1h :50m",
+			"tripFare": "Rs. 3,153",
+			"fare": 3153,
+			"departs": 1314924110000,
+			"arrives": 1314930780000,
+			"cb": "2"
+		}],
+		"returnJourney": [{
+			"iconClass": "air",
+			"time": "6:13 - 8:03",
+			"name": "Indigo 6E-184",
+			"duration": "1h :50m",
+			"tripFare": "Rs. 1,953",
+			"fare": 1953,
+			"departs": 1314924180000,
+			"arrives": 1314930210000,
+			"cb": "2"
+		}, {
+			"iconClass": "air",
+			"time": "6:13 - 8:03",
+			"name": "Indigo 6E-186",
+			"duration": "1h :50m",
+			"tripFare": "Rs. 3,923",
+			"fare": 3923,
+			"departs": 1314922380000,
+			"arrives": 1314930780000,
+			"cb": "2"
+		}, {
+			"iconClass": "air",
+			"name": "GoAir G8-180",
+			"duration": "1h :50m",
+			"tripFare": "Rs. 4,534",
+			"fare": 4534,
+			"departs": 1314934380000,
+			"arrives": 2314930780000,
+			"cb": "2"
+		}, {
+			"iconClass": "air",
+			"time": "6:13 - 8:03",
+			"name": "GoAir G8-188",
+			"duration": "1h :50m",
+			"tripFare": "Rs. 1,267",
+			"fare": 1267,
+			"departs": 1314924580000,
+			"arrives": 1317630780000,
+			"cb": "2"
+		}]
+	}
+}
